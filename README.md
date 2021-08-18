@@ -1,6 +1,6 @@
 # sql-challenge
 
-## Instructions
+## Background
 
 #### Data Modeling
 
